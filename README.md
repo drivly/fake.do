@@ -1,2 +1,1 @@
-# fake.do
-Fake Data Generation SDK &amp; API
+# fake.do - Fake Data Generation SDK & API
